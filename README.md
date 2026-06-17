@@ -17,13 +17,13 @@ This project includes experimental data, analysis code, simulation code, and res
 | Name                   | Student ID |
 | ---------------------- | ---------- |
 | 곽민환 (Kawak MinHwan)  | 202611011  |
-| 김하운 (Kim Hayun)      | 202611065  |
+| 김하윤 (Kim Hayun)      | 202611065  |
 | 박정환 (Park Jeonghwan) | 202611092  |
 | 신현민 (Shin Hyunmin)   | 202611119  |
 
 ## Course Information
 
-**Course Title:** General Physics II
+**Course Title:** General Physics I
 **Instructor:** Prof. Deniz Olgu Devecioglu
 **Section:** 04
 
