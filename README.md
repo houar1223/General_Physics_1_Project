@@ -1,4 +1,4 @@
-# General Physics Project
+# General Physics I Project
 
 ## Project Overview
 
