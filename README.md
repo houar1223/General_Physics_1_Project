@@ -10,6 +10,7 @@ This project includes experimental data, analysis code, simulation code, and res
 ## Team
 
 **Team Name:** Hyunmin's Makchang
+
 **Group:** Group 13
 
 ## Members
@@ -24,7 +25,9 @@ This project includes experimental data, analysis code, simulation code, and res
 ## Course Information
 
 **Course Title:** General Physics I
+
 **Instructor:** Prof. Deniz Olgu Devecioglu
+
 **Section:** 04
 
 ## Reference
