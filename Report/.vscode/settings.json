@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/d:\\DGIST\\일반물리\\Project\\Report\\physics_project_report.aux": true,
+        "**/d:\\DGIST\\일반물리\\Project\\Report\\physics_project_report.log": true,
+        "**/d:\\DGIST\\일반물리\\Project\\Report\\physics_project_report.gz": true,
+        "**/d:\\DGIST\\일반물리\\Project\\Report\\physics_project_report.out": true
+    }
+}
